@@ -1,0 +1,31 @@
+{
+  "name": "catalogproject",
+  "version": "1.0.0",
+  "description": "The objective of this project was to create a music album catalog where the user can catalog the albums he has listened to in the registration tab, and take a look at the registerd albums in the catalog tab. We used Node.JS/Express and Postgresql integrated with Sequelize to our database.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipepatricioo/catalogProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipepatricioo/catalogProject/issues"
+  },
+  "homepage": "https://github.com/felipepatricioo/catalogProject#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
