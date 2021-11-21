@@ -4,4 +4,4 @@ The objective of this project was to create a music album catalog where the user
 
 Website running on Heroku: https://bluediscomania.herokuapp.com/
 
-Project made with Felipe Patrício (felipepatricioo).
+Projeto Final (Módulo2 - Web, Banco de Dados e Cloud) feito com  Felipe Patrício (felipepatricioo).
